@@ -1,6 +1,6 @@
 module github.com/workshop-opp/visa-processor
 
-go 1.21.3
+go 1.21
 
 require (
 	github.com/bytedance/sonic v1.9.1 // indirect
